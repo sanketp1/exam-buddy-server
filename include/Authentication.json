@@ -1,0 +1,40 @@
+{
+	"info": {
+		"_postman_id": "b63a096b-96b6-4c2f-8cf9-852d9f0aed2f",
+		"name": "Authentication",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "16989798-b63a096b-96b6-4c2f-8cf9-852d9f0aed2f"
+	},
+	"item": [
+		{
+			"name": "auth",
+			"id": "74474ff8-c2c2-4ca2-a4b2-a5b3ecfc4b3c",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "admin-auth",
+			"id": "6d9facc8-1414-4b4c-96d6-e51808540c41",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}

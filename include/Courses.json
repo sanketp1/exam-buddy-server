@@ -1,0 +1,100 @@
+{
+	"info": {
+		"_postman_id": "4a1d203a-3e6c-4b9e-83ff-008407f75f04",
+		"name": "Courses",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "16989798-4a1d203a-3e6c-4b9e-83ff-008407f75f04"
+	},
+	"item": [
+		{
+			"name": "Create New Course",
+			"id": "7c35a28c-2448-46dc-bb25-37f47a56d4bc",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "courses list",
+			"id": "7b397787-86a0-4d90-8c76-fdba2c5a8ab5",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete course by id and category",
+			"id": "8b11c3c8-8ad9-4734-89c0-c5276c7b74ac",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get course by id",
+			"id": "b8d3940a-7e3b-4704-aa7f-ed22cdf1010a",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get course cover",
+			"id": "c8b12ca3-a18b-42df-9f0b-60f88d3f2d22",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get recently added",
+			"id": "375cbdf2-a0ec-41c2-921c-8428fb5de35f",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}

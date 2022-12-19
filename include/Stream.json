@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "e5ca8888-ff1b-47fc-b0ca-c78e94d97f2b",
+		"name": "Stream",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "16989798-e5ca8888-ff1b-47fc-b0ca-c78e94d97f2b"
+	},
+	"item": [
+		{
+			"name": "stream",
+			"id": "54233198-2fdc-4af6-bb97-7aab2a304a22",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
